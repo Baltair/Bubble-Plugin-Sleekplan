@@ -1,0 +1,13 @@
+{
+    "categories": {
+        "0": "analytics",
+        "1": "customer support"
+    },
+    "description": "Integrate Sleekplan with your application to get better insight from your users.\n\nhttps://sleekplan.com/",
+    "image": "//meta-q.cdn.bubble.io/f1701992886655x394926203969845570/logo.d321ece4.svg",
+    "license": "open_source",
+    "link": "https://sleekplan.com/",
+    "name": "Sleekplan",
+    "plugin_instructions": "Go to your Sleekplan account to find the SSO Key and Widget Script.\n\nTo Authenticate a user ;\n1. On page load, use the Generate SSO Token action\n2. When the token is available, use the Authenticate user\n3. Now when a widget open, the user should already be authenticated",
+    "sa_node_version": 18
+}

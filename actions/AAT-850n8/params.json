@@ -1,0 +1,16 @@
+{
+    "category": "analytics",
+    "display": "Sleekplan : Control Widget",
+    "fields": {
+        "AAj": {
+            "caption": "Action",
+            "default_val": "Open",
+            "doc": "Select wich action to perform",
+            "editor": "Dropdown",
+            "name": "action",
+            "options": "Open,Close,Toggle,Show Button,Hide Button,Open New Feedback,Open Changelog,Open Notifications",
+            "rank": 0
+        }
+    },
+    "type": "client_side"
+}

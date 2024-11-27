@@ -1,0 +1,23 @@
+{
+    "category": "analytics",
+    "display": "Sleekplan : Generate SSO Token",
+    "fields": {
+        "AAw": {
+            "caption": "User Email",
+            "editor": "DynamicValue",
+            "name": "user_email",
+            "rank": 0,
+            "value": "text"
+        }
+    },
+    "return_value": {
+        "AAv": {
+            "caption": "sso_token",
+            "name": "sso_token",
+            "rank": 0,
+            "value": "text"
+        }
+    },
+    "type": "server_side",
+    "use_packages": true
+}
